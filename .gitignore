@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.db
+
+# Frontend (Vite + Node)
+node_modules/
+dist/
+.vite/
+.env
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
